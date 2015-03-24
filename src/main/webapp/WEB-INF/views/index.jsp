@@ -3,6 +3,8 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 
 
+
+<p>Salam Saida, that's exemple for you</p>
 <p>New changes added</p>
 
 <h2>${message}</h2>
