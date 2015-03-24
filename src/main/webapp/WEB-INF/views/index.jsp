@@ -4,7 +4,8 @@
 
 
 
-<p>Salam Saida, that's exemple for you</p>
+<h2>Salam Sinan, that's exemple for you</h2>
+<p>if u see this example, u have to understand that IC works very well</p>
 <p>New changes added</p>
 
 <h2>${message}</h2>
