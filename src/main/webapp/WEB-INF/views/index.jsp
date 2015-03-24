@@ -4,7 +4,7 @@
 
 
 
-<h2>Salam Sinan</h2>
+<h2>Salam Sinan ve Ayhan</h2>
 <p>if u see this change, u have to understand that IC works very well</p>
 <p>New changes added</p>
 
