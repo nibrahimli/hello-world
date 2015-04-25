@@ -20,7 +20,7 @@
 	
 	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close" >
 			<property name="driverClassName" value="com.mysql.jdbc.Driver" />
-	        <property name="url" value="jdbc:mysql://ec2-52-10-178-194.us-west-2.compute.amazonaws.com:3306/Test" />
+	        <property name="url" value="jdbc:mysql://ec2-54-201-165-238.us-west-2.compute.amazonaws.com:3306/Test" />
 	        <property name="username" value="root" />
 	        <property name="password" value=""/>
 	</bean>
