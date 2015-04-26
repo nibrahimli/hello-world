@@ -5,7 +5,7 @@
 
 
 <h2>Salam Sinan ve Ayhan</h2>
-<p>if u see this change, u have to understand that IC works very well</p>
+<p>Testing github jenkins tomcat artifactory and amazon aws</p>
 <p>New changes added</p>
 
 <h2>${message}</h2>
