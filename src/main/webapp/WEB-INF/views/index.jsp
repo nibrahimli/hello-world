@@ -7,6 +7,7 @@
 <h2>Hello Sinan and Ayhan</h2>
 <p>Retesting github jenkins tomcat artifactory and amazon aws</p>
 <p>New changes added</p>
+<p>Testing tomcat restaring automacitly</p>
 
 <h2>${message}</h2>
 
