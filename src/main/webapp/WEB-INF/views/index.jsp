@@ -4,7 +4,7 @@
 
 
 
-<h2>Salam Sinan ve Ayhan</h2>
+<h2>Hello Sinan and Ayhan</h2>
 <p>Retesting github jenkins tomcat artifactory and amazon aws</p>
 <p>New changes added</p>
 
