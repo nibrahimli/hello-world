@@ -4,7 +4,7 @@
 
 
 
-<h2>Hello Sinan and Ayhan</h2>
+<h2>Using git vcv is very amazing and easy, so give it to me learing emphasize</h2>
 <p>Retesting github jenkins tomcat artifactory and amazon aws</p>
 <p>New changes added</p>
 <p>Testing tomcat restaring automacitly</p>
