@@ -22,7 +22,7 @@ public class HelloWorldController {
 	public ModelAndView wellcome(ModelAndView mav){
 		
 		List<Article> listArticle = articleDao.getAll(); 
-		mav.addObject("message", "Wellcome to my blog, it's nibrahimli's blog. What we'll talk about today Testing Github pushed method");
+		mav.addObject("message", "Wellcome to my blog, it's nibrahimli's blog. We'll talk about Testing Git push method");
 		mav.addObject("listArticle", listArticle);
 		mav.setViewName("/index");
 		return mav ;		
@@ -34,7 +34,7 @@ public class HelloWorldController {
 		Article article = new Article();
 		
 		article.setTitle("A1");
-		article.setResume("talk about...");
+		article.setResume("talk about git");
 		article.setText("we'l see this topic");
 		
 		articleDao.create(article);
