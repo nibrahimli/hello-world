@@ -1,1 +1,1 @@
-Git is very amazing vcv
+Git is very amazing VCV
