@@ -35,7 +35,7 @@ public class HelloWorldController {
 		
 		article.setTitle("A1");
 		article.setResume("How to use Git");
-		article.setText("we'l see this topic");
+		article.setText("So it's worth to learn git beacause, it's very easy implementing, keep improving");
 		
 		articleDao.create(article);
 		
